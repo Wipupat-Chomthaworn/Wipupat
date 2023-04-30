@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Wipupat Chomthaworn</h1>
+<h1 align="center">Hi 👋, I'm Wipupat Comthaworn</h1>
 <h3 align="center">A passionate full stack dev from Thailand.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wipupat-chomthaworn" alt="wipupat-chomthaworn" /></a> </p>
 
-- 👯 I’m looking to collaborate on [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System)
+- 🔭 I’m currently working on [POWER-PLANNER](https://github.com/Wipupat-Chomthaworn/POWER-PLANNER)
 
-- 💬 Ask me about **vue**
+- 🌱 I’m currently learning **Vue, Bootstrap, Node JS, mySQL**
+
+- 🤝 My latest project [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
