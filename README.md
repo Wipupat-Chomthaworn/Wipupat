@@ -9,7 +9,7 @@
 
 - 🤝 My latest project [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System)
 
-<h3 align="left">Connect with me:https://github.com/Wipupat-Chomthaworn</h3>
+<h3 align="left">Connect with me : [Github](https://github.com/Wipupat-Chomthaworn)</h3>
 <p align="left">
 </p>
 
