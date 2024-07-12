@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wipupat-chomthaworn" alt="wipupat-chomthaworn" /></a> </p>
 
-- 🔭 I’m currently working on Cooperative Internship
+- 🔭 I’m currently working on Cooperative Internship At TCC tech
 
 - 🌱 I’m currently learning **Vue, Bootstrap, Node JS, mySQL**
 
