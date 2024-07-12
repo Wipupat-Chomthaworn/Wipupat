@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Cooperative Internship At TCC tech
 
-- 🌱 I’m currently learning **Vue, Bootstrap, Node JS, mySQL**
+- 🌱 I’m currently learning **Golang, ReactNative, Vue, Bootstrap, Node JS, mySQL**
 
 - 🤝 My latest project [KRO Gamestore](https://github.com/Wipupat-Chomthaworn/KRO-GameStore), [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System), [POWER-PLANNER](https://github.com/Wipupat-Chomthaworn/POWER-PLANNER)
 
