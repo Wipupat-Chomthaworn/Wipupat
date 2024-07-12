@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue, Bootstrap, Node JS, mySQL**
 
-- 🤝 My latest project [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System)
+- 🤝 My latest project [KRO 2nd hand gamestore](https://github.com/Wipupat-Chomthaworn/KRO-GameStore), [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System)
 
 <h3 align="left">Connect with me : [Github](https://github.com/Wipupat-Chomthaworn)</h3>
 <p align="left">
