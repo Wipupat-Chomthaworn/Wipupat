@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wipupat-chomthaworn" alt="wipupat-chomthaworn" /></a> </p>
 
-- 🔭 I’m currently working on [POWER-PLANNER](https://github.com/Wipupat-Chomthaworn/POWER-PLANNER)
+- 🔭 I’m currently working on Cooperative Internship
 
 - 🌱 I’m currently learning **Vue, Bootstrap, Node JS, mySQL**
 
-- 🤝 My latest project [KRO 2nd hand gamestore](https://github.com/Wipupat-Chomthaworn/KRO-GameStore), [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System)
+- 🤝 My latest project [KRO Gamestore](https://github.com/Wipupat-Chomthaworn/KRO-GameStore), [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System), [POWER-PLANNER](https://github.com/Wipupat-Chomthaworn/POWER-PLANNER)
 
 <h3 align="left">Connect with me : [Github](https://github.com/Wipupat-Chomthaworn)</h3>
 <p align="left">
