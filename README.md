@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wipupat Comthaworn</h1>
+<h1 align="center">Hi 👋, I'm Wipupat </h1>
 <h3 align="center">A passionate full stack dev from Thailand.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wipupat-chomthaworn" alt="wipupat-chomthaworn" /></a> </p>
