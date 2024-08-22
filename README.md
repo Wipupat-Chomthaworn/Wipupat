@@ -9,7 +9,7 @@
 
 - 🤝 My latest project [KRO Gamestore](https://github.com/Wipupat-Chomthaworn/KRO-GameStore), [CV-Attendance-System](https://github.com/Wipupat-Chomthaworn/CV-mini-project-Employee-Attendance-System), [POWER-PLANNER](https://github.com/Wipupat-Chomthaworn/POWER-PLANNER)
 
-<h3 align="left">Connect with me : [Github](https://github.com/Wipupat-Chomthaworn)</h3>
+<h3 align="left">Connect with me : [Github](https://github.com/Wipupat)</h3>
 <p align="left">
 </p>
 
